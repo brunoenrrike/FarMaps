@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023368447024",
+    "firebase_url": "https://farmaps.firebaseio.com",
+    "project_id": "farmaps",
+    "storage_bucket": "farmaps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023368447024:android:90fff845fe882b45",
+        "android_client_info": {
+          "package_name": "xyz.bhabra.farmapsvotuporanga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023368447024-0o196dfrlc8mnmocjv6glhoasg1tt3a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.bhabra.farmapsvotuporanga",
+            "certificate_hash": "d81756aab66cd3375c8ac9af560ae7b4e9399d33"
+          }
+        },
+        {
+          "client_id": "1023368447024-vp0ng6s9e8n2g0f084qf3ijfmgm3rlma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzeJa-mKQdhNFR0V37sY7Oh-ygXa3UQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023368447024-vp0ng6s9e8n2g0f084qf3ijfmgm3rlma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

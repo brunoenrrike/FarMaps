@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FarMaps - Votuporanga</string>
+    <string name="novo_cadastro">Novo Cadastro</string>
+    <string name="listar_clientes">Listar Clietes</string>
+    <string name="salvar">Salvar</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="digite_email">Digite o seu email</string>
+    <string name="digite_nome">Digite o seu nome</string>
+    <string name="Digite_link">Digite o seu link</string>
+    <string name="Digite_fone">Digite o seu telefone</string>
+    <string name="email">Email:</string>
+    <string name="nome">Nome:</string>
+    <string name="link">Endereço:</string>
+    <string name="fone">Telefone:</string>
+    <string name="status">Status:</string>
+    <string name="nome_da_farmacia">Nome da Farmácia:</string>
+    <string name="por_favor_conecte_se_a_internet">Por favor, conecte-se a internet!</string>
+    <string name="tentar_novamente">Tentar Novamente</string>
+    <string name="hor_rio_de_funcionamento">Horário de Funcionamento:</string>
+    <string name="de_segunda_a_sexta">De Segunda a Sexta</string>
+    <string name="s_bado">Sábado</string>
+    <string name="domingo">Domingo</string>
+    <string name="das">Das:</string>
+    <string name="as">Ás:</string>
+</resources>
